@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **python and some other programming languages !**
 
-- 👨‍💻 All of my projects are available at [my website, currently under construction !]
+- 👨‍💻 Some projeccts & informations are available here : https://sebwebportfolio.netlify.app/ !
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
