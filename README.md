@@ -2,7 +2,7 @@
 <p align="center">Fullstack Developer · France 🇫🇷</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sebastien-branly-efrei/">
+  <a href="https://www.linkedin.com/in/sebastien-branly-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://gitlab.com/Sebras22">
