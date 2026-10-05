@@ -16,7 +16,7 @@
 
 ---
 
-- 🔭 Currently working on **my portfolio**
+- 🔭 My portfolio : https://sebastienbranly.fr/fr/
 - 🌱 Currently learning **Python & other languages**
 - 👨‍💻 Projects & info: *coming soon*
 - 💬 Feel free to reach out — always happy to connect!
